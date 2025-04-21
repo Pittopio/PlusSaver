@@ -5,8 +5,8 @@ class BotConfig:
     SESSION_NAME = "YoutubeGaelanSession"
     API_ID = 21211216
     API_HASH = "7404d8663463075dfd564027f32810fc"
-    BOT_TOKEN = "6019956632:AAFHRc_PRuD8FFTfDBP4AJefb0zqnabOJt4"
-    BOT_USERNAME = "youtube_gaelan_bot"  # Without @, example Folabetbot
+    BOT_TOKEN = "7659392407:AAG-s6I5GFuBv1FHyNdC3HjV_RsZvXhxaMQ"
+    BOT_USERNAME = "pittowbot"  # Without @, example Folabetbot
     DEFULT_ADMINS_USER_ID = {5283609058, }
     CREATOR_USER_ID = 5283609058
     SUPPORT_USERNAME = "Jarrare" # without @, example Jarrae
